@@ -50,7 +50,7 @@ dependencies:
 ## Setup Instructions:
 1. Clone the Repository
    In vscode or android studio terminal:
-   git clone https://github.com/yourusername/servicex-app.git
+   git clone (https://github.com/MashfiqulHoque1/serviceXapp)
    cd servicex-app
 2. Install Dependencies: In vscode or android studio terminal:
    flutter pub get
