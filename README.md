@@ -38,6 +38,7 @@ navigation bar to switch between different sections like Home, Options, Comments
 ##  Dependencies:
 
 copy the dependencies and paste in pubspec.yaml
+Here are the code-> 
 dependencies:
   flutter:
     sdk: flutter
