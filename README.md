@@ -60,8 +60,11 @@ dependencies:
 
 ## Folder Structure:
 1.lib/├── main.dart               # App entry point
+
 2.lib/├── home_screen.dart        # Home page UI
+
 3.lib/├── home_provider.dart      # API & state management
+
 4.lib/├── test_api_screen.dart    # Optional testing screen
 
 
